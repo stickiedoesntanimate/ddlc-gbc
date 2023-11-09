@@ -1,3 +1,3 @@
 # ddlc-gbc
 
-a port of ddlc for the gamboy color
+a port of ddlc for the gameboy color
